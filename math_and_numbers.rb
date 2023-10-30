@@ -22,3 +22,6 @@ puts Math.sqrt(36) # square root
 
 # ruby distinguishes between a whole number and a floating point number
 puts 1.0 + 7 # will give us 8.0
+
+puts 10 / 7 # will only give an integer back (1)
+puts 10 / 7.0 # Will give the full decimal value
